@@ -8,8 +8,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-#define DHTPIN  2
-#define OWPIN   0
+#define DHTPIN  0
+#define OWPIN   5
 #define TEMPERATURE_PRECISION 11
 #define MAX_SENSORS 8
 
