@@ -14,3 +14,8 @@ It's based on the Arduino [Arduino core for ESP8266](https://github.com/esp8266/
 * [Arduino Library for Maxim Temperature Integrated Circuits](https://github.com/milesburton/Arduino-Temperature-Control-Library)
 
 For more information and schematics please visit: https://www.basti79.de/mediawiki/index.php/1-Wire_Sensoren_mit_WLAN
+
+
+**This is the ESP-01 branch:**
+* uses an ESP-01 Module
+* has no interface for the water meters
